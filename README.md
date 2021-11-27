@@ -1,7 +1,7 @@
 
 # Desktop Llama
   
-  Desktop Llama is a project I did during classes in high-school.  
+  Desktop Llama is a project I did during classes in my last year of high-school.  
   I remember it was around the time when Untitled Goose Game came out... some weeks later a certain individual called Samperson created this desktop application called Desktop Goose, inspired by the UGG (I think).  
   I downloaded it, and tried it during my classes, and one of my teachers noticed it and told me how he used to do such things when he was young, so I got motivated to create something similar in order to impress my teacher... So bad Covid-19 happened and I never had a chance to show him in person...
 
